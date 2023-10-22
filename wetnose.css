@@ -1,0 +1,27 @@
+.landing-page {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    width: 237px;
+    height: 237px;
+}
+
+.set {
+    width: 1087px;
+    height: 995px;
+}
+
+.coming-soon {
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    width: 392px;
+    height: 78px;
+}
