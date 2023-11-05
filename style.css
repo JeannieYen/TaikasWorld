@@ -1,5 +1,6 @@
 .landing-page {
     display: flex;
+    justify-content: flex-start;
     flex-direction: column;
     align-items: center;
 }
@@ -10,8 +11,8 @@
 }
 
 .set {
-    width: 1087px;
-    height: 995px;
+    width: 25%;
+    height: 25%;
 }
 
 .coming-soon {
